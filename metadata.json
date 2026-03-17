@@ -1,0 +1,5 @@
+{
+  "name": "PokéFun",
+  "description": "Um playground interativo de Pokémon com mini-jogos, Pokédex e batalhas rápidas, inspirado no estilo neal.fun.",
+  "requestFramePermissions": []
+}
